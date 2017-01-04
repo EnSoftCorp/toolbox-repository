@@ -4,7 +4,8 @@ permalink: /catalog/
 ---
 
 <div class="posts">
-  {% for post in site.posts | sort:"title" %}
+  {% assign sortedPosts = site.posts | sort: 'title' %}
+  {% for post in sortedPosts %}
     {% unless post.draft %}
     <article class="post">
 
