@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Toolbox Commons
+title: Toolbox Commons Collection
 ---
 
 The Toolbox Commons project is a collection of common utilities useful for program analysis with Atlas. The project has resulted in a generic toolbox of common utilities agnostic of the programming language as well as three language specific toolboxes for Java, Jimple (JVM Bytecode), and C.
