@@ -5,12 +5,16 @@
     <property name='p2.timestamp' value='1483488000'/>
     <property name='p2.compressed' value='false'/>
   </properties>
-  <children size='5'>
-    <child location='https://ensoftcorp.github.io/toolbox-commons/updates/3.0.13'/>
-	<child location='https://ensoftcorp.github.io/c-toolbox-commons/updates/3.0.13'/>
-	<child location='https://ensoftcorp.github.io/java-toolbox-commons/updates/3.0.13'/>
-	<child location='https://ensoftcorp.github.io/jimple-toolbox-commons/updates/3.0.13'/>
-	<child location='https://ensoftcorp.github.io/slicing-toolbox/updates/3.0.13'/>
+  <children size='7'>
+    <!-- EnSoft Open Source Toolboxes -->
+    <child location='https://ensoftcorp.github.io/toolbox-commons/updates/'/>
+	<child location='https://ensoftcorp.github.io/c-toolbox-commons/updates/'/>
+	<child location='https://ensoftcorp.github.io/java-toolbox-commons/updates/'/>
+	<child location='https://ensoftcorp.github.io/jimple-toolbox-commons/updates/'/>
+	<child location='https://ensoftcorp.github.io/slicing-toolbox/updates/'/>
 	<child location='https://ensoftcorp.github.io/points-to-toolbox/updates/'/>
+	
+	<!-- Third Party Toolboxes -->
+	<child location='http://ben-holland.com/AtlasWBP/updates/'/>
   </children>
 </repository>
