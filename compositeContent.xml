@@ -5,7 +5,10 @@
     <property name='p2.timestamp' value='1483488000'/>
     <property name='p2.compressed' value='false'/>
   </properties>
-  <children size='7'>
+  <children size='8'>
+    <!-- Atlas and its dependencies -->
+	<child location='http://download.ensoftcorp.com/atlas/eclipse'/>
+
     <!-- EnSoft Open Source Toolboxes -->
     <child location='https://ensoftcorp.github.io/toolbox-commons/updates/'/>
 	<child location='https://ensoftcorp.github.io/c-toolbox-commons/updates/'/>

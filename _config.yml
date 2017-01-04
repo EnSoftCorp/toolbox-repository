@@ -85,4 +85,5 @@ exclude:
 
 # Include the following files and directories
 include:
-    - toolboxes/
+    - compositeArtifacts.xml
+    - compositeContent.xml
