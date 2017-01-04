@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Java Toolbox Commons
+name: Toolbox Repository
 
 # Short bio or description (displayed in the header)
-description: A set of common utilities for Java program analysis using Atlas
+description: A collection of Atlas toolbox plugins
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://ensoftcorp.github.io/java-toolbox-commons/images/toolbox.png
+avatar: https://ensoftcorp.github.io/toolbox-repository/images/toolbox.png
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email: support@ensoftcorp.com
   facebook:
   flickr:
-  github: EnSoftCorp/java-toolbox-commons
+  github: EnSoftCorp/toolbox-repository
   instagram:
   linkedin:
   pinterest:
@@ -41,13 +41,13 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://ensoftcorp.github.io/java-toolbox-commons/
+url: https://ensoftcorp.github.io/toolbox-repository/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/java-toolbox-commons"
+baseurl: "/toolbox-repository"
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -85,6 +85,4 @@ exclude:
 
 # Include the following files and directories
 include:
-    - updates/
-    - javadoc/
     - toolboxes/
