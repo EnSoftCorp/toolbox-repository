@@ -11,6 +11,6 @@
 	<child location='https://ensoftcorp.github.io/java-toolbox-commons/updates/3.0.13'/>
 	<child location='https://ensoftcorp.github.io/jimple-toolbox-commons/updates/3.0.13'/>
 	<child location='https://ensoftcorp.github.io/slicing-toolbox/updates/3.0.13'/>
-	<child location='https://ensoftcorp.github.io/points-to-toolbox-commons/updates/'/>
+	<child location='https://ensoftcorp.github.io/points-to-toolbox/updates/'/>
   </children>
 </repository>
