@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Toolbox Catalog
 permalink: /catalog/
 ---
 
+<a href="./catalog"><h3>&larr; Back to Toolbox Catalog</h3></a>
+
 <div class="posts">
-  {% for post in site.posts %}
+  {% for post in site.posts | sort:"title" %}
     {% unless post.draft %}
     <article class="post">
 
