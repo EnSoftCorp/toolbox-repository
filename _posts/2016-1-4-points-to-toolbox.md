@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Android Essentials Toolbox
+title: Points-to Toolbox
 ---
 
 The Points-to Toolbox project is an Atlas native points-to analysis implementation and utilities for using the points-to analysis results for other client analyses. This plugin implements an Andersen-style points-to analysis.
