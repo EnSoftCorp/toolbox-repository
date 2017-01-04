@@ -5,7 +5,7 @@
     <property name='p2.timestamp' value='1483488000'/>
     <property name='p2.compressed' value='false'/>
   </properties>
-  <children size='8'>
+  <children size='11'>
     <!-- Atlas and its dependencies -->
 	<child location='http://download.ensoftcorp.com/atlas/eclipse'/>
 
@@ -16,6 +16,9 @@
 	<child location='https://ensoftcorp.github.io/jimple-toolbox-commons/updates/'/>
 	<child location='https://ensoftcorp.github.io/slicing-toolbox/updates/'/>
 	<child location='https://ensoftcorp.github.io/points-to-toolbox/updates/'/>
+	<child location='https://ensoftcorp.github.io/android-essentials-toolbox/updates/'/>
+    <child location='https://ensoftcorp.github.io/call-graph-toolbox/updates/'/>
+    <child location='https://ensoftcorp.github.io/immutability-toolbox/updates/'/>
 	
 	<!-- Third Party Toolboxes -->
 	<child location='http://ben-holland.com/AtlasWBP/updates/'/>
