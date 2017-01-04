@@ -3,7 +3,7 @@ layout: post
 title: Points-to Toolbox
 ---
 
-The Points-to Toolbox project is an Atlas native points-to analysis implementation and utilities for using the points-to analysis results for other client analyses. This plugin implements an Andersen-style points-to analysis.
+The Points-to Toolbox project is an Atlas native points-to analysis implementation and utilities for using the points-to analysis results for other client analyses. This plugin implements an [Andersen-style points-to analysis](https://www.cs.cornell.edu/courses/cs711/2005fa/papers/andersen-thesis94.pdf).
 
 **Website:** [https://ensoftcorp.github.io/points-to-toolbox](https://ensoftcorp.github.io/points-to-toolbox/)
 
