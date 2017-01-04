@@ -3,7 +3,7 @@ layout: post
 title: Android Essentials Toolbox
 ---
 
-The Android Essentials Toolbox is a collection program analysis tools specifically developed for analyzing Android applications. The toolbox aids in mapping Android Permission Groups and Protection Levels to Permissions as well as Permissions to the respective permission protected Android APIs.
+The Android Essentials Toolbox is a collection program analysis tools specifically developed for analyzing Android applications. The toolbox aids in mapping [Android Permission Groups](https://developer.android.com/reference/android/Manifest.permission_group.html) and [Protection Levels](https://developer.android.com/guide/topics/manifest/permission-element.html#plevel) to [Permissions](https://developer.android.com/reference/android/Manifest.permission.html) as well as Permissions to the respective permission protected Android APIs.
 
 **Website:** [https://ensoftcorp.github.io/android-essentials-toolbox](https://ensoftcorp.github.io/android-essentials-toolbox/)
 
