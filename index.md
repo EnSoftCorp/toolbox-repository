@@ -18,7 +18,7 @@ The Toolbox Repository is a collection of [Atlas](http://www.ensoftcorp.com/atla
 Ready to get started?
 
 1. First check out the [current catalog](./catalog) of Atlas toolboxes.
-2. Install the toolboxes of interest or download one of the [premade Atlas toolbox bundles](./bundles).
+2. Then install the toolboxes of interest or download one of the [premade Atlas toolbox bundles](./bundles).
 
 ## Additional Support
-Need help? Want to see your toolbox project added to this repository? Please contact [mailto:support@ensoftcorp.com](support@ensoftcorp.com).
+Need help? Want to see your toolbox project added to this repository? Please contact [support@ensoftcorp.com](mailto:support@ensoftcorp.com).
