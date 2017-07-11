@@ -23,7 +23,8 @@
     <child location='https://ensoftcorp.github.io/call-graph-toolbox/updates/'/>
     <child location='https://ensoftcorp.github.io/immutability-toolbox/updates/'/>
     <child location='https://ensoftcorp.github.io/pcg-toolbox/updates/'/>
-    
+    <child location='https://ensoftcorp.github.io/loop-comprehension-toolbox/updates/'/>
+
     <!-- Third Party Toolboxes -->
     <child location='http://ben-holland.com/AtlasWBP/updates/'/>
   </children>
