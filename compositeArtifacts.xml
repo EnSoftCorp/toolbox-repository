@@ -5,7 +5,7 @@
     <property name='p2.timestamp' value='1483488000'/>
     <property name='p2.compressed' value='false'/>
   </properties>
-  <children size='16'>
+  <children size='17'>
     <!-- Atlas and its dependencies -->
     <child location='http://download.ensoftcorp.com/atlas/eclipse'/>
 
@@ -28,6 +28,7 @@
 
     <!-- KCSL Toolboxes -->
     <child location='https://kcsl.github.io/AMFVT/updates/'/>
+	<child location='https://kcsl.github.io/PathCounter/updates/'/>
 
     <!-- Third Party Toolboxes -->
     <child location='http://ben-holland.com/AtlasWBP/updates/'/>
