@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Path Counter
+title: SIDIS Toolbox
 ---
 
 The SIDIS Toolbox project provides statically-informed dynamic (SID) analysis and dynamically-informed static (DIS) analysis capabilities to the Atlas program analysis framework.
