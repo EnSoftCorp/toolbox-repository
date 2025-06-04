@@ -7,7 +7,7 @@
   </properties>
   <children size='19'>
     <!-- Atlas and its dependencies -->
-    <child location='http://download.ensoftcorp.com/atlas/eclipse'/>
+    <child location='https://www.ensoftupdate.com/download/atlas/eclipse'/>
 
     <!-- Third party support plugins -->
     <child location='https://ensoftcorp.github.io/support-plugins/updates/'/>
@@ -32,7 +32,7 @@
     <child location='https://kcsl.github.io/sidis-toolbox/updates/'/>
 
     <!-- Third Party Toolboxes -->
-    <child location='http://ben-holland.com/AtlasWBP/updates/'/>
-    <child location='http://ben-holland.com/AtlasBrainfuck/updates/'/>
+    <child location='https://ben-holland.com/AtlasWBP/updates/'/>
+    <child location='https://ben-holland.com/AtlasBrainfuck/updates/'/>
   </children>
 </repository>
